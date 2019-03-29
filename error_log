@@ -1,0 +1,24 @@
+[29-Sep-2018 10:25:34 America/Chicago] PHP Parse error:  syntax error, unexpected 'class' (T_CLASS), expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' in /home3/alzajiltrade/public_html/taxi/index.php on line 50
+[29-Sep-2018 10:27:15 America/Chicago] PHP Parse error:  syntax error, unexpected 'class' (T_CLASS), expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' in /home3/alzajiltrade/public_html/taxi/index.php on line 50
+[29-Sep-2018 10:32:30 America/Chicago] PHP Warning:  Unsupported declare 'strict_types' in /home3/alzajiltrade/public_html/taxi/vendor/zircote/swagger-php/src/functions.php on line 1
+[29-Sep-2018 17:30:22 UTC] PHP Fatal error:  Class 'App\Http\Controllers\API\Controller' not found in /home3/alzajiltrade/public_html/taxi/app/Http/Controllers/API/UserController.php on line 7
+[29-Sep-2018 17:31:02 UTC] PHP Fatal error:  Class 'App\Http\Controllers\API\Controller' not found in /home3/alzajiltrade/public_html/taxi/app/Http/Controllers/API/UserController.php on line 7
+[02-Oct-2018 10:48:05 UTC] PHP Fatal error:  Allowed memory size of 268435456 bytes exhausted (tried to allocate 151863296 bytes) in /home3/alzajiltrade/public_html/taxi/storage/framework/views/4125dc0cfa85e76da719055faacaf91c062b7100.php on line 4
+[02-Oct-2018 10:48:25 UTC] PHP Fatal error:  Allowed memory size of 268435456 bytes exhausted (tried to allocate 151863296 bytes) in /home3/alzajiltrade/public_html/taxi/storage/framework/views/4125dc0cfa85e76da719055faacaf91c062b7100.php on line 4
+[03-Oct-2018 09:49:34 UTC] PHP Fatal error:  Allowed memory size of 268435456 bytes exhausted (tried to allocate 190685184 bytes) in /home3/alzajiltrade/public_html/taxi/storage/framework/views/7cd98fa7fb6caaf9637faf06fdfdad86722c7b80.php on line 24
+[03-Oct-2018 09:49:48 UTC] PHP Fatal error:  Allowed memory size of 268435456 bytes exhausted (tried to allocate 190685184 bytes) in /home3/alzajiltrade/public_html/taxi/storage/framework/views/7cd98fa7fb6caaf9637faf06fdfdad86722c7b80.php on line 24
+[03-Oct-2018 09:49:51 UTC] PHP Fatal error:  Allowed memory size of 268435456 bytes exhausted (tried to allocate 190681088 bytes) in /home3/alzajiltrade/public_html/taxi/storage/framework/views/7cd98fa7fb6caaf9637faf06fdfdad86722c7b80.php on line 24
+[03-Oct-2018 09:50:16 UTC] PHP Fatal error:  Allowed memory size of 268435456 bytes exhausted (tried to allocate 190685184 bytes) in /home3/alzajiltrade/public_html/taxi/storage/framework/views/7cd98fa7fb6caaf9637faf06fdfdad86722c7b80.php on line 24
+[03-Oct-2018 09:50:33 UTC] PHP Fatal error:  Allowed memory size of 268435456 bytes exhausted (tried to allocate 190685184 bytes) in /home3/alzajiltrade/public_html/taxi/storage/framework/views/7cd98fa7fb6caaf9637faf06fdfdad86722c7b80.php on line 24
+[03-Oct-2018 09:50:40 UTC] PHP Fatal error:  Allowed memory size of 268435456 bytes exhausted (tried to allocate 189235200 bytes) in /home3/alzajiltrade/public_html/taxi/storage/framework/views/7cd98fa7fb6caaf9637faf06fdfdad86722c7b80.php on line 24
+[03-Oct-2018 09:50:56 UTC] PHP Fatal error:  Allowed memory size of 268435456 bytes exhausted (tried to allocate 190685184 bytes) in /home3/alzajiltrade/public_html/taxi/storage/framework/views/7cd98fa7fb6caaf9637faf06fdfdad86722c7b80.php on line 24
+[05-Oct-2018 06:44:15 UTC] PHP Fatal error:  Can't use function return value in write context in /home3/alzajiltrade/public_html/taxi/storage/framework/views/0fbe3d1bdbade343a02abe13a27819cdc586ee14.php on line 20
+[22-Oct-2018 08:53:50 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home3/alzajiltrade/public_html/taxi/vendor/laravel/framework/src/Illuminate/Support/Collection.php on line 1109
+[22-Oct-2018 08:54:22 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home3/alzajiltrade/public_html/taxi/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 681
+[22-Oct-2018 08:54:38 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home3/alzajiltrade/public_html/taxi/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 669
+[22-Oct-2018 08:58:29 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home3/alzajiltrade/public_html/taxi/vendor/laravel/framework/src/Illuminate/Database/Query/Builder.php on line 528
+[22-Oct-2018 09:15:25 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home3/alzajiltrade/public_html/taxi/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 1172
+[07-Nov-2018 04:16:07 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function make() on null in /home3/alzajiltrade/public_html/taxi/index.php:50
+Stack trace:
+#0 {main}
+  thrown in /home3/alzajiltrade/public_html/taxi/index.php on line 50
